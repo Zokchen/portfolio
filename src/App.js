@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import "./.css";
+import "./rock.css";
 import demo from "./demo.jpg";
 import crjr from "./crjr.png";
 import mateo from "./mateo.png";
