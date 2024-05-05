@@ -8,6 +8,8 @@ pipeline {
 
             steps {
               echo 'building the application'
+                nodejs('Node-18-19-0') {
+                    sh 'npm install'
             }
         }
 
